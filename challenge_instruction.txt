@@ -1,0 +1,5 @@
+scrape yelp for all taco places in slc
+grab the name of the restaurant, the address, and the phone number if it has one
+store these results into a yaml file called 'tacos.yml'
+
+  you only have to do the first ten results
