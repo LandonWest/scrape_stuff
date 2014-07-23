@@ -1,0 +1,21 @@
+---
+- :url: "/url?q=http://www.railstutorial.org/book&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CCsQFjAA&usg=AFQjCNFmLvn7hz5thmBz2sHXbjBTEmZ54w"
+  :text: Frontmatter | Ruby on Rails Tutorial | Softcover.io
+- :url: "/url?q=http://www.railstutorial.org/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CDQQFjAB&usg=AFQjCNE-F_-Cxeafkw51VtZ-Z90rojoTqA"
+  :text: Ruby on Rails Tutorial, Learn Rails by Example - Michael Hartl ...
+- :url: "/url?q=http://guides.rubyonrails.org/getting_started.html&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CD0QFjAC&usg=AFQjCNFRUt5XePwsJSwgD9lyaHc4YT4zrg"
+  :text: "Getting Started with Rails \x97 Ruby on Rails Guides"
+- :url: "/url?q=http://guides.rubyonrails.org/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CEcQFjAD&usg=AFQjCNEtGSwwwSomsiP7prazWEeYx6hZlg"
+  :text: Ruby on Rails Guides
+- :url: "/url?q=http://railsforzombies.org/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CE0QFjAE&usg=AFQjCNFz0O-mSqlUpEjwzV5BJlTnNiSNIw"
+  :text: 'Rails for Zombies: Code School'
+- :url: "/url?q=http://www.youtube.com/watch%3Fv%3DUQ8_VOGj5H8&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CFQQtwIwBQ&usg=AFQjCNHFgO1MHqCmes6viEzhqG5RAHW4lQ"
+  :text: Ruby on Rails Tutorial Part 1 - Getting Started - YouTube
+- :url: "/url?q=http://www.tutorialspoint.com/ruby-on-rails/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CFgQFjAG&usg=AFQjCNE-I9yFZMs8n7DGV8dS84LS5btjRQ"
+  :text: Ruby on Rails Tutorial - Tutorialspoint
+- :url: "/url?q=http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CF4QFjAH&usg=AFQjCNEflFM7ZND_9rpJokf5zoD0y8Te4Q"
+  :text: The Best Way to Learn Ruby on Rails - Tuts+ Code Tutorial
+- :url: "/url?q=http://guides.railsgirls.com/app/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CGUQFjAI&usg=AFQjCNFaJPF25TjTSqjPK75ME1c9rZlsEw"
+  :text: Rails Girls App Tutorial - Rails Girls
+- :url: "/url?q=http://www.sitepoint.com/learn-ruby-on-rails/&sa=U&ei=_pvOU81klaTIBJ_pgIgF&ved=0CGsQFjAJ&usg=AFQjCNGyCTdVwprvmbI4fRo9dEC-KdvBOQ"
+  :text: 'Learn Ruby on Rails: the Ultimate Beginner''s Tutorial - SitePoint'
